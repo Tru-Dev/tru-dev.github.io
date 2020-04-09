@@ -1,2 +1,2 @@
-# tru-dev.github.io
-GitHub Pages repo
+# Tru-Dev.GitHub.io
+My GitHub Pages repo, containing my devblog, portfolio, and whatever I decide to use it for.
