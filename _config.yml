@@ -33,7 +33,7 @@ twitter_username: TruDev_
 github_username:  Tru-Dev
 
 # Build settings
-theme: minima
+# theme: minima
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
