@@ -22,9 +22,11 @@ title: TruDev's Site
 email: trudev.professional@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to TruDev's site! Here, you can find:
+  
   * My blog
   * My portfolio
   * Anything else I decide to use it for!
+  
   Have fun!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tru-dev.github.io"
