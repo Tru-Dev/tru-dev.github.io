@@ -18,7 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: TruDev's Site
+title: "TruDev's Site"
+title_separator: ": "
+subtitle: "A blogfolio of someone who likes code and games"
+name: &name "TruDev"
 email: trudev.professional@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to TruDev's site! Here, you can find
