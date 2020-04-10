@@ -35,6 +35,27 @@ url: "https://tru-dev.github.io"
 twitter_username: TruDev_
 github_username:  Tru-Dev
 
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
 # Build settings
 # theme: minima
 remote_theme: mmistakes/minimal-mistakes
