@@ -21,9 +21,11 @@
 title: TruDev's Site
 email: trudev.professional@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to TruDev's site! Here, you can find:
+  * My blog
+  * My portfolio
+  * Anything else I decide to use it for!
+  Have fun!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tru-dev.github.io"
 # the base hostname & protocol for your site, e.g. http://example.com
