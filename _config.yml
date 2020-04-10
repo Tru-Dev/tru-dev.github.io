@@ -34,6 +34,7 @@ github_username:  Tru-Dev
 
 # Build settings
 theme: minima
+remote_theme: sujaykundu777/devlopr-jekyll
 plugins:
   - jekyll-feed
 
