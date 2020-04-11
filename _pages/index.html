@@ -1,0 +1,25 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: splash
+permalink: /
+header:
+  overlay_color: "#013"
+  overlay_filter: "0.25"
+  overlay_image: /assets/images/TruDevBanner.png
+#   caption: ""
+  actions:
+    - label: "Buy Copy Kitty! (not mine, but it's worth it!)"
+      url: https://store.steampowered.com/app/349250/Copy_Kitty/
+intro: 
+  - excerpt: "Welcome to my site! This is where I will post most of my progress." 
+---
+
+{% include feature_row id="intro" type="center" %}
+
+<div class="text-center">
+{% for post in site.posts limit: 8 %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+</div>
