@@ -27,6 +27,6 @@ Edit 2: Had to redo the links...
 * [Download game for Windows!](https://github.com/Tru-Dev/DodgeTheCreeps/releases/download/v1.0.0/DTCwin.exe)
 * [Or for Mac!](https://github.com/Tru-Dev/DodgeTheCreeps/releases/download/v1.0.0/DTCmac.zip)
 * [Or for Linux!](https://github.com/Tru-Dev/DodgeTheCreeps/releases/download/v1.0.0/DTClinux.x86_64)
-* [Want to see the source?](https://github.com/Tru-Dev/DodgeTheCreeps/releases/download/v1.0.0/DTCwin.exe)
+* [Want to see the source?](https://github.com/Tru-Dev/tru-dev.github.io)
 
 
