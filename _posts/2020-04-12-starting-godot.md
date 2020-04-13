@@ -4,15 +4,6 @@ header:
   overlay_color: "#013"
   overlay_filter: "0.25"
   overlay_image: /assets/images/StartBtn.png
-actions:
-  - label: "Download game for Windows!"
-    url: https://github.com/Tru-Dev/DodgeTheCreeps/releases/download/v1.0.0/DTCwin.exe
-  - label: "Or for Mac!"
-    url: https://github.com/Tru-Dev/DodgeTheCreeps/releases/download/v1.0.0/DTCmac.zip
-  - label: "Or for Linux!"
-    url: https://github.com/Tru-Dev/DodgeTheCreeps/releases/download/v1.0.0/DTClinux.x86_64
-  - label: "Want to see the source?"
-    url: https://github.com/Tru-Dev/DodgeTheCreeps/releases/download/v1.0.0/DTCwin.exe
 ---
 
 Hey, my first real post!
@@ -30,3 +21,12 @@ enjoy my creations! At time of writing, I have no idea of where I'm gonna host
 these games, so I hope I can find one...
 
 Edit: nvm GitHub works
+
+---
+Edit 2: Had to redo the links...
+* [Download game for Windows!](https://github.com/Tru-Dev/DodgeTheCreeps/releases/download/v1.0.0/DTCwin.exe)
+* [Or for Mac!](https://github.com/Tru-Dev/DodgeTheCreeps/releases/download/v1.0.0/DTCmac.zip)
+* [Or for Linux!](https://github.com/Tru-Dev/DodgeTheCreeps/releases/download/v1.0.0/DTClinux.x86_64)
+* [Want to see the source?](https://github.com/Tru-Dev/DodgeTheCreeps/releases/download/v1.0.0/DTCwin.exe)
+
+
